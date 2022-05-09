@@ -1,4 +1,4 @@
- #sobre mim
+ # sobre mim
 
 ## editando o perfil
 - 👋 oi meu nome é @brunomaisdivertido
