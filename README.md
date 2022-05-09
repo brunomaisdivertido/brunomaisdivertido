@@ -1,8 +1,8 @@
  # sobre mim
 
 ## editando o perfil
-- 👋 oi meu nome é @brunomaisdivertido
-- 👍
+- 👋 meu nome é @brunomaisdivertido
+- 👍 tenho 14 anos 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
