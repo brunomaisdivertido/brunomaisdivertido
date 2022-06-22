@@ -6,4 +6,3 @@
 - 🐥 jogo minecraft e muitos outros jogos
 - 👎 nao gosto do @Andrezin06 
 - 🌱 estou aprendendo computacao e tentando entender matematica
-- 📫 me encontre no fortenite e la pabadge e me mande skins 🦿
